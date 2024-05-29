@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+  <Employee PIB="Martinenko Ivan Valeriyovich">
+    <Posada>Minister</Posada>
+    <Date>02.04.2024</Date>
+    <Arrival>09:25</Arrival>
+    <Leave>18:40</Leave>
+  </Employee>
+  <Employee PIB="Smith John Veterson">
+    <Posada>Manager</Posada>
+    <Date>04.04.2024</Date>
+    <Arrival>08:45</Arrival>
+    <Leave>17:30</Leave>
+  </Employee>
+  <Employee PIB="Doe Jane Glon">
+    <Posada>Engineer</Posada>
+    <Date>19.04.2024</Date>
+    <Arrival>07:55</Arrival>
+    <Leave>16:20</Leave>
+  </Employee>
+  <Employee PIB="Brown Michael Uternak">
+    <Posada>Technician</Posada>
+    <Date>01.05.2024</Date>
+    <Arrival>09:10</Arrival>
+    <Leave>17:50</Leave>
+  </Employee>
+  <Employee PIB="Taylor Sarah Gabriel">
+    <Posada>Secretary</Posada>
+    <Date>05.06.2024</Date>
+    <Arrival>08:00</Arrival>
+    <Leave>17:00</Leave>
+  </Employee>
+  <Employee PIB="Wilson David Butker">
+    <Posada>Analyst</Posada>
+    <Date>15.04.2024</Date>
+    <Arrival>07:30</Arrival>
+    <Leave>16:45</Leave>
+  </Employee>
+  <Employee PIB="Brown Michael Uternak">
+    <Posada>Technician</Posada>
+    <Date>10.07.2024</Date>
+    <Arrival>09:10</Arrival>
+    <Leave>17:50</Leave>
+  </Employee>
+  <Employee PIB="Taylor Sarah Gabriel">
+    <Posada>Secretary</Posada>
+    <Date>20.08.2024</Date>
+    <Arrival>08:00</Arrival>
+    <Leave>17:00</Leave>
+  </Employee>
+  <Employee PIB="Wilson David Butker">
+    <Posada>Analyst</Posada>
+    <Date>09.09.2024</Date>
+    <Arrival>07:30</Arrival>
+    <Leave>16:45</Leave>
+  </Employee>
+  <Employee PIB="Ivan Martunenko">
+    <Posada>operator</Posada>
+    <Date>16.05.2024</Date>
+    <Arrival>08:25</Arrival>
+    <Leave>17:25</Leave>
+  </Employee>
+  <Employee PIB="Влад Коваль Сергійович">
+    <Posada>Гружчик </Posada>
+    <Date>22.05.2024</Date>
+    <Arrival>06:35</Arrival>
+    <Leave>17:35</Leave>
+  </Employee>
+  <Employee PIB="Гриб Тимур Сергійович">
+    <Posada>Менеджер</Posada>
+    <Date>24.05.2024</Date>
+    <Arrival>06:35</Arrival>
+    <Leave>17:35</Leave>
+  </Employee>
+</root>

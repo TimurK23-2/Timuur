@@ -1,0 +1,16 @@
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\bin\Debug\net8.0-windows\EmployeeAttendanceSystem.exe
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\bin\Debug\net8.0-windows\EmployeeAttendanceSystem.deps.json
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\bin\Debug\net8.0-windows\EmployeeAttendanceSystem.runtimeconfig.json
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\bin\Debug\net8.0-windows\EmployeeAttendanceSystem.dll
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\bin\Debug\net8.0-windows\EmployeeAttendanceSystem.pdb
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\obj\Debug\net8.0-windows\EmployeeAttendanceSystem.Form1.resources
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\obj\Debug\net8.0-windows\EmployeeAttendanceSystem.csproj.GenerateResource.cache
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\obj\Debug\net8.0-windows\EmployeeAttendanceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\obj\Debug\net8.0-windows\EmployeeAttendanceSystem.AssemblyInfoInputs.cache
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\obj\Debug\net8.0-windows\EmployeeAttendanceSystem.AssemblyInfo.cs
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\obj\Debug\net8.0-windows\EmployeeAttendanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\obj\Debug\net8.0-windows\EmployeeAttendanceSystem.dll
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\obj\Debug\net8.0-windows\refint\EmployeeAttendanceSystem.dll
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\obj\Debug\net8.0-windows\EmployeeAttendanceSystem.pdb
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\obj\Debug\net8.0-windows\EmployeeAttendanceSystem.genruntimeconfig.cache
+C:\Users\stand\source\repos\EmployeeAttendanceSystem\EmployeeAttendanceSystem\obj\Debug\net8.0-windows\ref\EmployeeAttendanceSystem.dll
